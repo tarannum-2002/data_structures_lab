@@ -1,0 +1,77 @@
+/*OUTPUT: 
+1.Insert at left
+ 2.Delete random node
+ 3.Display List
+ 4.Exit
+ Enter choice: 1
+Enter value to be inserted: 1
+Node Inserted: 1
+1.Insert at left
+ 2.Delete random node
+ 3.Display List
+ 4.Exit
+ Enter choice: 1
+Enter value to be inserted: 2
+1.Insert at left
+ 2.Delete random node
+ 3.Display List
+ 4.Exit
+ Enter choice: 1
+Enter value to be inserted: 3
+1.Insert at left
+ 2.Delete random node
+ 3.Display List
+ 4.Exit
+ Enter choice: 1
+Enter value to be inserted: 4
+1.Insert at left
+ 2.Delete random node
+ 3.Display List
+ 4.Exit
+ Enter choice: 1
+Enter value to be inserted: 5
+1.Insert at left
+ 2.Delete random node
+ 3.Display List
+ 4.Exit
+ Enter choice: 3
+List: 
+5
+4
+3
+2
+1
+1.Insert at left
+ 2.Delete random node
+ 3.Display List
+ 4.Exit
+ Enter choice: 2
+Enter value: 2
+Node Deleted
+1.Insert at left
+ 2.Delete random node
+ 3.Display List
+ 4.Exit
+ Enter choice: 3
+List: 
+5
+4
+3
+2
+1.Insert at left
+ 2.Delete random node
+ 3.Display List
+ 4.Exit
+ Enter choice: 2
+Enter value: 3
+Node Deleted
+1.Insert at left
+ 2.Delete random node
+ 3.Display List
+ 4.Exit
+ Enter choice: 3
+List: 
+5
+4
+3
+*/
