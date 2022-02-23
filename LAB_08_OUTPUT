@@ -1,0 +1,117 @@
+Stack Operations: 1.Push 2.Pop 3.Display 4.Exit
+Queue Operations: 5.Enqueue 6.Dequeue 7.Display 4.Exit
+Enter your choice: 1
+Enter value to be inserted: 1
+Node inserted
+
+Stack Operations: 1.Push 2.Pop 3.Display 4.Exit
+Queue Operations: 5.Enqueue 6.Dequeue 7.Display 4.Exit
+Enter your choice: 1
+Enter value to be inserted: 2
+Node inserted
+
+Stack Operations: 1.Push 2.Pop 3.Display 4.Exit
+Queue Operations: 5.Enqueue 6.Dequeue 7.Display 4.Exit
+Enter your choice: 1
+Enter value to be inserted: 3
+Node inserted
+
+Stack Operations: 1.Push 2.Pop 3.Display 4.Exit
+Queue Operations: 5.Enqueue 6.Dequeue 7.Display 4.Exit
+Enter your choice: 3
+Stack: 
+3 
+2 
+1 
+
+Stack Operations: 1.Push 2.Pop 3.Display 4.Exit
+Queue Operations: 5.Enqueue 6.Dequeue 7.Display 4.Exit
+Enter your choice: 2
+Node deleted
+
+Stack Operations: 1.Push 2.Pop 3.Display 4.Exit
+Queue Operations: 5.Enqueue 6.Dequeue 7.Display 4.Exit
+Enter your choice: 3
+Stack: 
+2 
+1
+
+Stack Operations: 1.Push 2.Pop 3.Display 4.Exit
+Queue Operations: 5.Enqueue 6.Dequeue 7.Display 4.Exit
+Enter your choice: 2
+Node deleted
+
+Stack Operations: 1.Push 2.Pop 3.Display 4.Exit
+Queue Operations: 5.Enqueue 6.Dequeue 7.Display 4.Exit
+Enter your choice: 3
+Stack: 
+1 
+
+Stack Operations: 1.Push 2.Pop 3.Display 4.Exit
+Queue Operations: 5.Enqueue 6.Dequeue 7.Display 4.Exit
+Enter your choice: 2
+Node deleted
+
+Stack Operations: 1.Push 2.Pop 3.Display 4.Exit
+Queue Operations: 5.Enqueue 6.Dequeue 7.Display 4.Exit
+Enter your choice: 3
+Stack empty
+
+Stack Operations: 1.Push 2.Pop 3.Display 4.Exit
+Queue Operations: 5.Enqueue 6.Dequeue 7.Display 4.Exit
+Enter your choice: 5
+Enter value to be inserted: 1
+Node inserted
+
+Stack Operations: 1.Push 2.Pop 3.Display 4.Exit
+Queue Operations: 5.Enqueue 6.Dequeue 7.Display 4.Exit
+Enter your choice: 5
+Enter value to be inserted: 2
+Node inserted
+
+Stack Operations: 1.Push 2.Pop 3.Display 4.Exit
+Queue Operations: 5.Enqueue 6.Dequeue 7.Display 4.Exit
+Enter your choice: 5
+Enter value to be inserted: 3
+Node inserted
+
+Stack Operations: 1.Push 2.Pop 3.Display 4.Exit
+Queue Operations: 5.Enqueue 6.Dequeue 7.Display 4.Exit
+Enter your choice: 7
+Queue: 
+1 
+2 
+3 
+
+Stack Operations: 1.Push 2.Pop 3.Display 4.Exit
+Queue Operations: 5.Enqueue 6.Dequeue 7.Display 4.Exit
+Enter your choice: 6
+Node deleted
+
+Stack Operations: 1.Push 2.Pop 3.Display 4.Exit
+Queue Operations: 5.Enqueue 6.Dequeue 7.Display 4.Exit
+Enter your choice: 7
+Queue: 
+2 
+3 
+
+Stack Operations: 1.Push 2.Pop 3.Display 4.Exit
+Queue Operations: 5.Enqueue 6.Dequeue 7.Display 4.Exit
+Enter your choice: 6
+Node deleted
+
+Stack Operations: 1.Push 2.Pop 3.Display 4.Exit
+Queue Operations: 5.Enqueue 6.Dequeue 7.Display 4.Exit
+Enter your choice: 7
+Queue: 
+3 
+
+Stack Operations: 1.Push 2.Pop 3.Display 4.Exit
+Queue Operations: 5.Enqueue 6.Dequeue 7.Display 4.Exit
+Enter your choice: 6
+Node deleted
+
+Stack Operations: 1.Push 2.Pop 3.Display 4.Exit
+Queue Operations: 5.Enqueue 6.Dequeue 7.Display 4.Exit
+Enter your choice: 7
+Queue empty
