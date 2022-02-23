@@ -1,0 +1,103 @@
+
+1.Insert node 
+2.sort node
+3.reverse node
+4.concat 2 lists 
+5.exit
+
+Enter your choice : 1
+Enter value: 6
+First node created
+
+1.Insert node 
+2.sort node
+3.reverse node
+4.concat 2 lists 
+5.exit
+
+Enter your choice : 1
+Enter value: 3
+Node created
+
+1.Insert node 
+2.sort node
+3.reverse node
+4.concat 2 lists 
+5.exit
+
+Enter your choice : 1
+Enter value: 10
+Node created
+
+1.Insert node 
+2.sort node
+3.reverse node
+4.concat 2 lists 
+5.exit
+
+Enter your choice : 1
+Enter value: 14
+Node created
+
+1.Insert node 
+2.sort node
+3.reverse node
+4.concat 2 lists 
+5.exit
+
+Enter your choice : 1
+Enter value: 2
+Node created
+
+1.Insert node 
+2.sort node
+3.reverse node
+4.concat 2 lists 
+5.exit
+
+Enter your choice : 2
+ 2 3 6 10 14
+1.Insert node 
+2.sort node
+3.reverse node
+4.concat 2 lists 
+5.exit
+
+Enter your choice : 3
+ 14 10 6 3 2
+1.Insert node 
+2.sort node
+3.reverse node
+4.concat 2 lists 
+5.exit
+
+Enter your choice : 4
+Enter elements to create list 2
+Enter integer  : 
+3
+First node of list 2 created
+Do u want to continue adding: 0 or 1
+1
+Enter integer  : 
+7
+Node created
+Do u want to continue adding: 0 or 1
+1
+Enter integer  : 
+19 
+Node created
+Do u want to continue adding: 0 or 1
+1
+Enter integer  : 
+8
+Node created
+Do u want to continue adding: 0 or 1
+0
+ 14 10 6 3 2 3 7 1 8
+1.Insert node 
+2.sort node
+3.reverse node
+4.concat 2 lists 
+5.exit
+
+Enter your choice : 5
